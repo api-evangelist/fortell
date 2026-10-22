@@ -1,0 +1,157 @@
+# Fortell
+
+> AI-powered hearing aids clinically proven to deliver superior speech clarity in noisy environments. Built from the ground up to amplify conversation without amplifying background noise.
+
+Fortell is a hearing technology company that has developed revolutionary AI hearing aids using proprietary spatial-AI algorithms and custom low-latency silicon to solve the "Cocktail Party Problem" – the difficulty of understanding speech in noisy social settings. Founded by Matt de Jonge (CEO), Andrew Casper (CTO), Cole Morris (COO), and Igor Lovchinsky (Chief Scientific Officer), Fortell has raised $150M in funding and launched its first clinic on Manhattan's Upper East Side.
+
+## Company Overview
+
+- **Founded:** By former Bridgewater Associates and Butterfly IQ team members
+- **Headquarters:** New York City
+- **Clinic Location:** 530 Park Avenue, New York, NY 10065
+- **Contact:** info@fortell.com | +1 (917) 410-5407
+- **Product:** Fortell AI Hearing Aids (prescription required)
+- **Target Audience:** Adults with mild to profound hearing loss
+
+## Core Technology
+
+Fortell's breakthrough technology combines:
+- **Custom Silicon Chip:** Proprietary chip processes audio in under 10 milliseconds to preserve natural sound
+- **Spatial AI:** Advanced source-separation AI identifies and isolates voices directed at the wearer
+- **Real-Time Processing:** Pulls conversation into the foreground while attenuating background noise
+- **Deep Neural Networks:** Trained on massive synthetic datasets emulating diverse acoustic conditions
+
+Unlike traditional hearing aids that simply amplify all sounds equally, Fortell changes what you hear – not just how loud everything is.
+
+## Clinical Validation
+
+- Randomized controlled trials co-designed and overseen by outside academics
+- All participants showed materially improved speech comprehension in background noise
+- 9.2 dB improvement over leading competitors in clinical testing
+- 18.9X higher odds of understanding speech versus top AI hearing aids
+- 95% of wearers preferred Fortell over top-of-the-line competitors in blind comparisons
+
+## Product Details
+
+### What's Included
+- Pair of hearing aids (right and left)
+- Portable charging case (60+ hours additional charge)
+- USB-C cable and adapter
+- Cleaning tools
+- Replacement wax guards
+- Multiple sizes and types of ear domes
+- 5 years of comprehensive audiological care
+- 3-year comprehensive warranty
+- 3 years of loss and damage coverage
+- 100-day trial with full refund option
+
+### Features
+- **Battery Life:** 18+ hours even with AI on most aggressive setting
+- **iPhone Compatible:** Companion app for volume, noise-reduction settings, and care team connection
+- **Bluetooth Streaming:** Phone calls, music, and podcasts directly to ears
+- **Three Listening Modes:** All-day AI, Front Voices, and Conventional
+- **Physical Controls:** Mode switching on right device, volume on left device
+- **Equalizer:** Fine-tune hearing via companion app
+
+### Compatibility
+- iPhone 13 and newer (iPhone SE 3rd gen and later)
+- iOS 18 or later required for companion app
+
+## Services
+
+### Audiological Care
+- Full hearing exams to determine candidacy
+- Precision fitting with experienced audiologists
+- Personalized programming
+- Regular adjustments and fine-tuning
+- Unlimited cleanings
+- Annual hearing exams
+- Remote support via phone, email, text, or video chat
+- In-person adjustments when needed
+
+### Payment Options
+- Credit cards and checks accepted in-clinic
+- Financing available through Affirm
+
+## Important Information
+
+- **Prescription Required:** Fortell AI Hearing Aids are for prescription use by adults only
+- **Recent Audiogram:** Need either in-clinic hearing exam or audiogram from past 6 months
+- **Initial Fitting:** Must be done in-person at NYC clinic
+- **FDA Regulated:** Medical device for adults with hearing loss
+
+## Expansion
+
+Currently available only at the Manhattan clinic. Waitlist available for notification when Fortell expands to additional cities.
+
+---
+
+## Main Pages
+
+- [Home](https://www.fortell.com/): Overview of Fortell AI hearing aids and their clinical proof
+- [Fortell AI Hearing Aids](https://www.fortell.com/fortell-ai-hearing-aids): Complete product information, features, FAQs, and pricing
+- [How It Works](https://www.fortell.com/how-it-works): Technology explanation, the Fortell experience, and clinical results
+- [NYC Clinic](https://www.fortell.com/nyc-clinic): Information about the Park Avenue audiology clinic
+- [Compatibility](https://www.fortell.com/compatibility): Supported iPhone models and iOS versions
+- [About](https://www.fortell.com/about): Company mission and team information
+- [Blog](https://www.fortell.com/blog): Articles and updates about hearing health and Fortell news
+- [For Audiologists](https://www.fortell.com/for-audiologists): Professional partnership information
+
+## Support & Resources
+
+- [Contact Us](https://www.fortell.com/contact-us): Get in touch with the Fortell team
+- [Press Kit Materials](https://www.fortell.com/press-kit-materials): Media resources and company assets
+- [Instructions](https://www.fortell.com/instructions): User guides and device documentation
+- [Warranty](https://www.fortell.com/warranty): Full warranty terms and coverage details
+
+## Legal & Compliance
+
+- [Website Terms of Service](https://www.fortell.com/website-terms-of-service)
+- [Mobile App Terms of Service](https://www.fortell.com/mobile-app-terms-of-service)
+- [Notice of Privacy Practices](https://www.fortell.com/notice-of-privacy-practices)
+- [Privacy Policy](https://www.fortell.com/privacy-policy)
+- [FDA Information](https://www.fortell.com/fda-information)
+- [Patents](https://www.fortell.com/patents)
+- [Security](https://www.fortell.com/security)
+
+## Optional: Extended Information
+
+### Frequently Asked Questions
+
+**Do I need a prescription?**
+Yes. Fortell AI Hearing Aids are for prescription use by adults only. You'll need either a hearing exam in the Fortell clinic or an audiogram from the past 6 months.
+
+**Who are these hearing aids for?**
+Adults with mild to profound hearing loss. A consultation with an audiologist is required to confirm candidacy.
+
+**What is the return policy?**
+100-day trial period. If they're not right for you, return for a full refund.
+
+**How long does the battery last?**
+18+ hours even with Fortell AI on its most aggressive setting. The charging case holds an additional 60 hours of charge.
+
+**Can I connect to my phone?**
+Yes. Fortell AI Hearing Aids connect to iPhones via Bluetooth for streaming calls, music, and podcasts. The companion app provides controls and care team access.
+
+**What warranty is included?**
+3-year comprehensive warranty plus 3 years of loss and damage coverage. Full details at fortell.com/warranty.
+
+**How much do they cost?**
+Contact Fortell or visit the NYC clinic for current pricing. The purchase includes the device pair, accessories, 5 years of audiological care, warranty, and loss/damage protection.
+
+### Key Differentiators
+
+1. **Purpose-Built AI:** Not retrofitted legacy technology with added AI features
+2. **Custom Silicon:** Proprietary chip designed specifically for hearing aid requirements
+3. **Sub-10ms Latency:** Preserves natural sound quality without perceptible delay
+4. **Clinical Proof:** Rigorous academic-overseen randomized controlled trials
+5. **Comprehensive Care:** 5 years of professional audiological support included
+6. **Premium Experience:** Clinic designed for comfort with white-glove service
+
+### Social Proof
+
+Beta tested by high-profile users including celebrities, business leaders, and investors who report dramatic improvements in understanding speech in challenging environments like restaurants, cocktail parties, and noisy streets.
+
+---
+
+© 2025 Fortell. All rights reserved.

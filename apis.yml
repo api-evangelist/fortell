@@ -1,25 +1,90 @@
 aid: fortell
+
 name: Fortell
-description: 'Fortell is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio;
-  backed by founders-fund) and added to the network as a stub for full-pipeline profiling.'
+
+image: https://cdn.prod.website-files.com/68483ae9b9193f5347f397e0/692f2ddd0b0dd5ff39bf1d11_fortell-homepage-1200x630-OG.jpg
+
+description: 'Fortell develops clinically proven AI hearing aids that provide superior speech clarity in noisy environments. The company leverages advanced AI algorithms and scientific research to enhance hearing experiences for users, offering personalized solutions and a modern approach to auditory health.'
+
 url: https://raw.githubusercontent.com/api-evangelist/fortell/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:vc-portfolio
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-22 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-22'
+
 modified: '2026-10-22'
+
 tags:
 - Company
-apis: []
+- AI
+- HearingAids
+- HealthTech
+- Audio
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
-x-backed-by:
-- founders-fund
+
 common:
+- type: Conformance
+  url: conformance/fortell-conformance.yml
+- type: LLMsTxt
+  url: llms/fortell-llms.txt
+- type: Hosts
+  url: hosts/fortell-hosts.yml
+- type: Vendors
+  url: vendors/fortell-vendors.yml
+- type: Support
+  url: https://support.fortell.com
+- type: SignUp
+  url: https://www.fortell.com/signup-confirmation
+- type: Security
+  url: https://www.fortell.com/security
+- type: Newsroom
+  url: https://www.fortell.com/blog-category/news
+- type: VulnerabilityDisclosure
+  url: security/fortell-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/fortell-domain-security.yml
 - type: Website
   url: https://www.fortell.com/
+- type: TermsOfService
+  url: https://www.fortell.com/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.fortell.com/privacy-policy
+- type: Blog
+  url: https://www.fortell.com/blog
+- type: Patents
+  url: https://www.fortell.com/patents
+
+apis: []
+
+x-backed-by:
+- founders-fund
+
+x-coverage:
+  state: none
+  reason: no-developer-program
+  method: derived
+  generated: '2026-10-22'
+  generator: derive-coverage.py (pre-flight evidence)
+  detail: >-
+    the company publishes no developer documentation host and no machine-readable contract on its own domain
+  evidence:
+  - url: https://www.fortell.com/
+    status: 200
+x-enrichment:
+  date: '2026-10-22'
+  status: enriched
+  artifacts_added: 13
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local

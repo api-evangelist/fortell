@@ -1,0 +1,14 @@
+generated: '2026-10-22'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://www.fortell.com/notice-of-privacy-practices
+sources:
+- https://www.fortell.com/notice-of-privacy-practices
+- https://www.fortell.com/privacy-policy
+- https://www.fortell.com/security
+- https://www.fortell.com/app/privacy-policy
+standards:
+- id: hipaa
+  conforms: true
+  evidence: Notice of Privacy Practices | Fortell HIPAA
+docs: https://www.fortell.com/notice-of-privacy-practices

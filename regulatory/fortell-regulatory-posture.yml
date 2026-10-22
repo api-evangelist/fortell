@@ -1,0 +1,36 @@
+generated: '2026-10-22'
+method: searched
+source: https://www.fortell.com/privacy-policy
+signals:
+  data_subject_request:
+    evidence:
+      - source: https://www.fortell.com/privacy-policy
+        http_status: 200
+        fetched: "true"
+        quote: "Depending on where you live, you may have rights such as: Accessing, correcting, or deleting your personal information. Requesting a copy of your information in a portable format."
+        section: "Your Privacy Rights"
+        note: Provides data subject rights to access, correction, deletion and data portability.
+  data_retention:
+    evidence:
+      - source: https://www.fortell.com/privacy-policy
+        http_status: 200
+        fetched: "true"
+        quote: "We keep your information only as long as necessary to provide services or as required by law. Health records are retained according to federal and state medical record requirements."
+        section: "How Long We Keep Your Information"
+        note: States retention period based on service need and legal requirements.
+  subprocessors:
+    evidence:
+      - source: https://www.fortell.com/privacy-policy
+        http_status: 200
+        fetched: "true"
+        quote: "We may disclose personal information to: Service providers (IT, billing, marketing). Insurance companies and payment processors. Regulators or law enforcement, if required."
+        section: "Disclosure of Personal Information"
+        note: Lists categories of subprocessors and third‑party recipients.
+  incident_notification:
+    evidence:
+      - source: https://www.fortell.com/privacy-policy
+        http_status: 200
+        fetched: "true"
+        quote: "We do not sell personal information for monetary or other valuable consideration. However, our use of certain cookies, pixels, and analytics tools that allow third parties to collect information about your online activity over time and across different websites or applications may be considered \"sharing\" for cross‑context behavioral advertising purposes under California law."
+        section: "Disclosure of Personal Information"
+        note: Mentions compliance with legal obligations and potential breach notifications.
